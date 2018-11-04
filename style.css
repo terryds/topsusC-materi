@@ -1,0 +1,17 @@
+.red {
+    color: red;
+}
+
+p {
+    font-size: 21px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+ul {
+    list-style-type: square;
+    background-color: gray;
+    color: #eee;
+}
